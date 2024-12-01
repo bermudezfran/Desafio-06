@@ -83,3 +83,16 @@ button {
 .info-game > p {
   font-size: 10px;
 }
+
+footer {
+  background-color: #e96093;
+  border-radius: 5px;
+  opacity: 999;
+}
+
+h4 {
+  padding: 2em;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
