@@ -90,6 +90,11 @@ footer {
   opacity: 999;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 h4 {
   padding: 2em;
   text-align: center;
